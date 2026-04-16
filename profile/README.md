@@ -13,7 +13,7 @@
 
 **Our mission:** Accelerate AI for science by building autonomous research agents and maintaining high-quality collections of tools and references for the community.
 
-**Welcome collaboration from research labs, independent contributors, and the broader open-source community.**
+**We welcome collaboration from research labs, independent contributors, and the broader open-source community.**
 
 ## 🔬 Projects in This Org
 
