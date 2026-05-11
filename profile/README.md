@@ -4,8 +4,7 @@
 
 </div>
 
-> **"The easier it is to verify a solution, the faster an AI system can learn to master the task."**
-> — paraphrased from a recurring idea in AI research on verification
+> **Verification helps make AI-driven scientific research faster, more reliable, and more reproducible.**
 
 AI4Scientist is an open-source organization focused on practical AI for science: building autonomous researcher systems and sharing reproducible research workflows, tools, and resources.
 
@@ -15,10 +14,12 @@ AI4Scientist is an open-source organization focused on practical AI for science:
 
 ## 🔬 Projects in This Organization
 
-### [nano-scientist](https://github.com/AI4Scientist/nano-scientist) ![](https://img.shields.io/badge/Repo-nano--scientist-blue?style=for-the-badge)
+### [nano-scientist](https://github.com/AI4Scientist/nano-scientist)
+![](https://img.shields.io/badge/Repo-nano--scientist-blue?style=for-the-badge)
 An autonomous research agent that turns a topic into a peer-reviewed technical report.
 
-### [awesome-autoresearch](https://github.com/AI4Scientist/awesome-autoresearch) ![](https://img.shields.io/badge/Repo-awesome--autoresearch-green?style=for-the-badge)
+### [awesome-autoresearch](https://github.com/AI4Scientist/awesome-autoresearch)
+![](https://img.shields.io/badge/Repo-awesome--autoresearch-green?style=for-the-badge)
 A curated list of awesome autonomous researcher frameworks.
 
 ## 🎯 What We Aim For
