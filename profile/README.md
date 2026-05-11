@@ -7,11 +7,11 @@
 > **"The easier it is to verify a solution, the faster an AI system can learn to master the task."**
 > — paraphrased from a recurring idea in AI research on verification
 
-AI4Scientist is an open-source organization focused on autonomous researcher systems and practical AI-for-science workflows: building agents, resources, and collections that turn scientific ideas into reproducible research outputs.
+AI4Scientist is an open-source organization focused on practical AI for science: building autonomous researcher systems and sharing reproducible research workflows, tools, and resources.
 
-> **"Make AI-driven research workflows practical, verifiable, and reproducible."**
+> **"Make AI-driven scientific research practical, verifiable, and reproducible."**
 
-**Our mission:** Accelerate AI for science by building autonomous research agents and maintaining high-quality collections of tools and references for the community.
+**Our mission:** accelerate AI for science through autonomous research agents, transparent workflows, and high-quality collections of tools and references.
 
 ## 🔬 Projects in This Organization
 
@@ -24,10 +24,10 @@ A curated list of awesome autonomous researcher frameworks.
 ## 🎯 What We Aim For
 
 - Build autonomous research systems that help scientists move from ideas to concrete outputs.
-- Keep research workflows auditable, reproducible, and easy to extend.
-- Curate high-signal references, tools, and examples for the AI-for-science community.
-- Share practical open-source artifacts that researchers and builders can adapt.
+- Keep research workflows inspectable, reproducible, and easy to extend.
+- Curate high-signal tools, references, and examples for the AI-for-science community.
+- Share practical open-source artifacts that others can reproduce and adapt.
 
 ## 🤝 Collaborate With Us
 
-We welcome collaboration from research labs, independent contributors, and the broader open-source community.
+We welcome contributors, research labs, and builders interested in AI-assisted scientific discovery and reproducible research practices.
