@@ -4,8 +4,6 @@
 
 </div>
 
-> **Verification helps make AI-driven scientific research faster, more reliable, and more reproducible.**
-
 AI4Scientist is an open-source organization focused on practical AI for science: building autonomous researcher systems and sharing reproducible research workflows, tools, and resources.
 
 > **"Make AI-driven scientific research practical, verifiable, and reproducible."**
