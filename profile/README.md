@@ -1,24 +1,34 @@
-> **Attribution:** This profile README format and parts of wording are adapted from [Software Engineering Arena](https://github.com/Software-Engineering-Arena/.github/blob/main/profile/README.md).  
-> **Related reading:** [Alperen Keles (@alpaylan)](https://alperenkeles.com/posts/verifiability-is-the-limit), [Andrej Karpathy (@karpathy)](https://x.com/karpathy/status/1990116666194456651), [Jason Wei (@jasonwei20)](https://www.jasonwei.net/blog/asymmetry-of-verification-and-verifiers-law).
-
 <div align="center">
 
 # AI4Scientist
 
 </div>
 
-[AI4Scientist](https://github.com/AI4Scientist) is an open-source initiative to build and curate autonomous researcher systems and resources. We focus on practical workflows that turn scientific ideas into reproducible research outputs.
+> **Verification helps make AI-driven scientific research faster, more reliable, and more reproducible.**
 
-> **Paraphrase:** "The easier it is to verify a solution, the faster an AI system can learn to master the task."
+AI4Scientist is an open-source organization focused on practical AI for science: building autonomous researcher systems and sharing reproducible research workflows, tools, and resources.
 
-**Our mission:** Accelerate AI for science by building autonomous research agents and maintaining high-quality collections of tools and references for the community.
+> **"Make AI-driven scientific research practical, verifiable, and reproducible."**
 
-**We welcome collaboration from research labs, independent contributors, and the broader open-source community.**
+**Our mission:** accelerate AI for science through autonomous research agents, transparent workflows, and high-quality collections of tools and references.
 
-## 🔬 Projects in This Org
+## 🔬 Projects in This Organization
 
 ### [nano-scientist](https://github.com/AI4Scientist/nano-scientist)
+![nano-scientist repository badge](https://img.shields.io/badge/Repo-nano--scientist-blue?style=for-the-badge)
 An autonomous research agent that turns a topic into a peer-reviewed technical report.
 
 ### [awesome-autoresearch](https://github.com/AI4Scientist/awesome-autoresearch)
+![awesome-autoresearch repository badge](https://img.shields.io/badge/Repo-awesome--autoresearch-green?style=for-the-badge)
 A curated list of awesome autonomous researcher frameworks.
+
+## 🎯 What We Aim For
+
+- Build autonomous research systems that help scientists move from ideas to concrete outputs.
+- Keep research workflows inspectable, reproducible, and easy to extend.
+- Curate high-signal tools, references, and examples for the AI-for-science community.
+- Share practical open-source artifacts that others can reproduce and adapt.
+
+## 🤝 Collaborate With Us
+
+We welcome contributors, research labs, and builders interested in AI-assisted scientific discovery and reproducible research practices.
