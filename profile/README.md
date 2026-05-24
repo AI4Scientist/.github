@@ -12,11 +12,14 @@ AI4Scientist is an open-source organization focused on practical AI for science:
 
 ## 🔬 Projects in This Organization
 
-### [![nano-scientist](https://img.shields.io/badge/%F0%9F%8F%9F%EF%B8%8F-nano--scientist-orange?style=for-the-badge)](https://github.com/AI4Scientist/nano-scientist)
-An autonomous research agent that turns a topic into a peer-reviewed technical report.
-
 ### [![awesome-autoresearch](https://img.shields.io/badge/%F0%9F%8F%9F%EF%B8%8F-awesome--autoresearch-red?style=for-the-badge)](https://github.com/AI4Scientist/awesome-autoresearch)
 A curated list of awesome autonomous researcher frameworks.
+
+### [![learn-auto-research](https://img.shields.io/badge/%F0%9F%8F%9F%EF%B8%8F-learn--auto--research-blue?style=for-the-badge)](https://github.com/AI4Scientist/learn-auto-research)
+A repository for learning and practicing automated research workflows.
+
+### [![nano-scientist](https://img.shields.io/badge/%F0%9F%8F%9F%EF%B8%8F-nano--scientist-orange?style=for-the-badge)](https://github.com/AI4Scientist/nano-scientist)
+An autonomous research agent that turns a topic into a peer-reviewed technical report.
 
 ## 🎯 What We Aim For
 
